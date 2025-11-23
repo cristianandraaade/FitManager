@@ -1,0 +1,15 @@
+C:\Users\Cristian\Desktop\Projetos-Faculdade\Personal-Projects\FitManager\obj\Debug\net9.0\FitManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian\Desktop\Projetos-Faculdade\Personal-Projects\FitManager\obj\Debug\net9.0\FitManager.AssemblyInfoInputs.cache
+C:\Users\Cristian\Desktop\Projetos-Faculdade\Personal-Projects\FitManager\obj\Debug\net9.0\FitManager.AssemblyInfo.cs
+C:\Users\Cristian\Desktop\Projetos-Faculdade\Personal-Projects\FitManager\obj\Debug\net9.0\FitManager.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\Projetos-Faculdade\Personal-Projects\FitManager\obj\Debug\net9.0\FitManager.sourcelink.json
+C:\Users\Cristian\Desktop\Projetos-Faculdade\Personal-Projects\FitManager\bin\Debug\net9.0\FitManager.exe
+C:\Users\Cristian\Desktop\Projetos-Faculdade\Personal-Projects\FitManager\bin\Debug\net9.0\FitManager.deps.json
+C:\Users\Cristian\Desktop\Projetos-Faculdade\Personal-Projects\FitManager\bin\Debug\net9.0\FitManager.runtimeconfig.json
+C:\Users\Cristian\Desktop\Projetos-Faculdade\Personal-Projects\FitManager\bin\Debug\net9.0\FitManager.dll
+C:\Users\Cristian\Desktop\Projetos-Faculdade\Personal-Projects\FitManager\bin\Debug\net9.0\FitManager.pdb
+C:\Users\Cristian\Desktop\Projetos-Faculdade\Personal-Projects\FitManager\obj\Debug\net9.0\FitManager.dll
+C:\Users\Cristian\Desktop\Projetos-Faculdade\Personal-Projects\FitManager\obj\Debug\net9.0\refint\FitManager.dll
+C:\Users\Cristian\Desktop\Projetos-Faculdade\Personal-Projects\FitManager\obj\Debug\net9.0\FitManager.pdb
+C:\Users\Cristian\Desktop\Projetos-Faculdade\Personal-Projects\FitManager\obj\Debug\net9.0\FitManager.genruntimeconfig.cache
+C:\Users\Cristian\Desktop\Projetos-Faculdade\Personal-Projects\FitManager\obj\Debug\net9.0\ref\FitManager.dll
